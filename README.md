@@ -23,15 +23,14 @@ https://github.com/user-attachments/assets/f22cdc98-88f7-4c99-91d2-88eb9dc33141
 
 | Tecnologia | Finalidade |
 |------------|-------------|
-| [React Native com Expo] | Desenvolvimento do app |
-| [API Ex: AwesomeAPI / Fixer.io] | Cotação de moedas |
-| [Expo ] | Build e execução |
+| React Native com Expo | Desenvolvimento do app |
+| ExchangeRate API | Cotação de moedas |
+| Expo  | Build e execução |
 
 ## 📚 O que aprendi?
 
 - Consumo de APIs REST
 - Gerenciamento de estado no mobile
-- Tratamento de entrada do usuário (validação de números)
 - Design responsivo para diferentes tamanhos de tela
 
 ## 📂 Como executar
